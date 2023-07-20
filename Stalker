@@ -1,0 +1,2 @@
+(X % y) < y;
+(X & y) == Z then, X & Z = Z && Y & Z = Z...but reverse ids not true
