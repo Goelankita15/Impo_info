@@ -1,2 +1,7 @@
 (X % y) < y;
 (X & y) == Z then, X & Z = Z && Y & Z = Z...but reverse ids not true
+//Kadane's Algorithm
+
+if sum < 0 sum = 0... no need to carry further othwise 
+sum += arr[i];
+maxi = max(maxi, sum);
